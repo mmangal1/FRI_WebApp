@@ -1,0 +1,19 @@
+html, body{
+    height: 100%;
+}
+#homepage{
+    height: 100%;
+    padding: 20px;
+    background-color: #e84e40;
+}
+#container{
+    height: 98%;
+    background-color: #ff0000;
+    /*border: solid 5px;*/
+}
+.icon{
+    float: left;
+    height: 48%;
+    width: 23.99999%;
+    border: solid 6px;
+}
