@@ -9,11 +9,50 @@ html, body{
 #container{
     height: 98%;
     background-color: #ff0000;
-    /*border: solid 5px;*/
 }
 .icon{
     float: left;
     height: 48%;
     width: 23.99999%;
     border: solid 6px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+#icon1{
+    background-size: 95% 102%;
+    background-position-x: 2px;
+    background-position-y: -23px;
+}
+#icon2{
+    background-size: 102% 100%;
+    background-position-x: -9px;
+    background-position-y: -9px;
+}
+
+#icon3{
+    background-size: 95% 95%;
+    background-position-x: -1px;
+    background-position-y: -5px;
+}
+
+#icon4{
+    background-size: 95% 95%;
+    background-position-x: 3px;
+    background-position-y: 14px;
+}
+
+#icon5{
+    background-size: 95% 95%;
+    background-position-x: 14px;
+    background-position-y: 6px;
+}
+
+#icon6{
+    background-position-x: 5px;
+    background-position-y: -3px;
+}
+
+#icon8{
+    background-position-x: 5px;
+    background-position-y: 5px;
 }
